@@ -4,8 +4,8 @@
 Zhengzhou Shuneng Software Technology Co., Ltd. | China  
 
 **Honors & Awards**  
-🏆 Henan Provincial Science and Technology Progress Award (Second Class, First Rank)  
-🌟 Zhengzhou Outstanding Contribution Talent Award (Awarded by Zhengzhou Municipal People's Government)  
+🏆 Henan Provincial Science and Technology Progress Award (Second Class, First Rank) *(Awarded by Henan Provincial People's Government)*  
+🌟 Zhengzhou Outstanding Contribution Talent Award *(Awarded by Zhengzhou Municipal People's Government)* 
 
 **Technical Credentials**:  
 ⋅ M.S. Software Engineering | Senior Engineer  
